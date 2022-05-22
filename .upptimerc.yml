@@ -38,9 +38,9 @@ status-website:
   name: Upptime
   introTitle: "Personal Access only"
   introMessage: Personal Apps
-#   theme: night
-  i18n:
-    footer: Thank you.
+  theme: night
+i18n:
+  footer: Thank you.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
