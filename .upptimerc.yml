@@ -39,7 +39,7 @@ status-website:
   introTitle: "Personal Access only"
   introMessage: Personal Apps
 i18n:
-  footer:
+  footer: Thank you.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
