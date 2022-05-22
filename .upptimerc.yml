@@ -1,26 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: shimuldn # Your GitHub organization or username, where this repository lives
+repo: upptime-personal # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Whoogle Search - Personal
+    url: $PERSONAL_WHOOGLE
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: Searx Search - Personal
+    url: $SEARX_PERSONAL
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: Piped Youtube - Personal
+    url: $PIPED_PERSONAL
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+    
+  - name: Adguard DNS Ocean - Personal
+    check: "tcp-ping"
+    url: $DNS_OCEAN
+    port: $DNS_OCEAN_PORT
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: Adguard DNS D - Personal
+    check: "tcp-ping"
+    url: $DNS_D
+    port: $DNS_D_PORT
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: Adguard DNS P - Personal
+    check: "tcp-ping"
+    url: $DNS_P
+    port: $DNS_P_PORT
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.shimul.me
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Personal Access only"
+  introMessage: Personal Apps
   navbar:
     - title: Status
       href: /
