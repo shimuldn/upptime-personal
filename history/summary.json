@@ -76,19 +76,19 @@
     "url": "$DNS_D",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "adguard-dns-d-personal",
-    "status": "down",
-    "uptime": "57.49%",
-    "uptimeDay": "57.49%",
-    "uptimeWeek": "57.49%",
-    "uptimeMonth": "57.49%",
-    "uptimeYear": "57.49%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "status": "up",
+    "uptime": "54.72%",
+    "uptimeDay": "54.72%",
+    "uptimeWeek": "54.72%",
+    "uptimeMonth": "54.72%",
+    "uptimeYear": "54.72%",
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-05-22": 134
+      "2022-05-22": 150
     }
   },
   {
