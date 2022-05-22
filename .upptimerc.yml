@@ -40,6 +40,7 @@ status-website:
   introMessage: Personal Apps
 i18n:
   footer: Thank you.
+theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
