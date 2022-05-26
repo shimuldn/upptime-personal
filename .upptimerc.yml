@@ -18,11 +18,11 @@ sites:
     url: $DNS_OCEAN
     port: $DNS_OCEAN_PORT
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
-  - name: Adguard DNS D - Personal
-    check: "tcp-ping"
-    url: $DNS_D
-    port: $DNS_D_PORT
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+#   - name: Adguard DNS D - Personal
+#     check: "tcp-ping"
+#     url: $DNS_D
+#     port: $DNS_D_PORT
+#     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
   - name: Adguard DNS P - Personal
     check: "tcp-ping"
     url: $DNS_P
