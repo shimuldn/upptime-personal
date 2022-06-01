@@ -22,9 +22,9 @@
     "url": "$SEARX_PERSONAL",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "searx-search-personal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 710,
     "timeMonth": 771,
     "timeYear": 771,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-01": 0
+    }
   },
   {
     "name": "Piped Youtube - Personal",
@@ -41,14 +43,14 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-youtube-personal",
     "status": "up",
-    "uptime": "89.54%",
+    "uptime": "90.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.65%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "89.54%",
+    "uptimeWeek": "86.25%",
+    "uptimeMonth": "90.15%",
+    "uptimeYear": "90.15%",
     "time": 682,
     "timeDay": 788,
-    "timeWeek": 698,
+    "timeWeek": 705,
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {
