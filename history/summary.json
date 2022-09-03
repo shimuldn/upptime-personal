@@ -75,11 +75,11 @@
     "url": "$DNS_OCEAN",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "adguard-dns-ocean-personal",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "59.31%",
-    "uptimeWeek": "84.98%",
-    "uptimeMonth": "96.54%",
+    "uptimeWeek": "84.90%",
+    "uptimeMonth": "96.52%",
     "uptimeYear": "98.99%",
     "time": 223,
     "timeDay": 225,
@@ -87,7 +87,7 @@
     "timeMonth": 224,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-09-03": 557,
+      "2022-09-03": 566,
       "2022-09-02": 748,
       "2022-09-01": 210
     }
