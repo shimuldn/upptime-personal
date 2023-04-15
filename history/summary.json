@@ -4,9 +4,9 @@
     "url": "$PERSONAL_WHOOGLE",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "whoogle-search-personal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1360,
     "timeYear": 1238,
     "dailyMinutesDown": {
+      "2023-04-15": 0,
       "2023-01-25": 21
     }
   },
@@ -46,11 +47,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "piped-youtube-personal",
     "status": "up",
-    "uptime": "96.28%",
+    "uptime": "96.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.28%",
+    "uptimeYear": "96.29%",
     "time": 857,
     "timeDay": 911,
     "timeWeek": 957,
