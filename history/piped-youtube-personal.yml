@@ -1,7 +1,7 @@
 url: $PIPED_PERSONAL
-status: up
-code: 200
-responseTime: 959
-lastUpdated: 2023-04-27T23:15:00.973Z
+status: down
+code: 502
+responseTime: 869
+lastUpdated: 2023-04-28T10:51:06.369Z
 startTime: Sun May 22 2022 10:36:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
