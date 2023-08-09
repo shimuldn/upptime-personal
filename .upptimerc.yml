@@ -6,9 +6,6 @@ sites:
   - name: Whoogle Search - Personal
     url: $PERSONAL_WHOOGLE
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
-  - name: Searx Search - Personal
-    url: $SEARX_PERSONAL
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
   - name: Piped Youtube - Personal
     url: $PIPED_PERSONAL
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
@@ -17,16 +14,6 @@ sites:
     check: "tcp-ping"
     url: $DNS_OCEAN
     port: $DNS_OCEAN_PORT
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
-#   - name: Adguard DNS D - Personal
-#     check: "tcp-ping"
-#     url: $DNS_D
-#     port: $DNS_D_PORT
-#     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
-  - name: Adguard DNS P - Personal
-    check: "tcp-ping"
-    url: $DNS_P
-    port: $DNS_P_PORT
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
 
 status-website:
